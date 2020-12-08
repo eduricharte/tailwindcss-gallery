@@ -9,6 +9,9 @@ function App() {
       </div>
       <div className="h-screen bg-red-400 text-center">
         <h1 className="text-8xl">Bienvenidos a mi galería</h1>
+        <div className="text-black font-bold text-left">
+          <p>En esta sección aparecerán las fotos</p>
+        </div>
       </div>
     </div>
   );
